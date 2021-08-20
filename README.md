@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 <a href="https://twitter.com/Rifky54641898">
   <img align="left" alt="Rifky KD| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" target="blank"/>
 </a>
-<a href="https://www.instagram.com/mr.rifky_kd/">
+<a href="https://www.instagram.com/rifky__kd/">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" target="blank"/>
 </a>
 <a href="https://github.com/rifkykd">
