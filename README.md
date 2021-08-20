@@ -79,7 +79,7 @@ Here are some ideas to get you started:
   <img align="left" alt="gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/gmail.svg" />
 </a>
 
-
+<br>
 
 <br/>
 
