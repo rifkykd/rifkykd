@@ -70,8 +70,12 @@ Here are some ideas to get you started:
 <a href="href="https://www.tiktok.com/@rifky_kd?lang=en">
   <img align="left" alt="TikTok" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/tiktok.svg" />
 </a>
-<a href="https://mail.google.com/mail/u/0/?tab=wm#inbox?compose=GTvVlcSDbSJbVvWjnZBcnXkkQWnWxsbJZCxkhTMRFtWWvhJcPWpGrHllnHlJnZFTjmSbNGNlTlwpp">
-  <img align="left" alt="gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/gmail.svg" />
+<a href="href="https://www.tiktok.com/@rifky_kd?lang=en">
+  <img align="left" alt="TikTok" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/tiktok.svg" />
+</a>
+                                                                                                                    
+ <a href="https://www.youtube.com/channel/UCFu0H_KJJG_JiHH-8JOWjOA">
+  <img align="left" alt="Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/youtube.svg" />
 </a>
 
 
