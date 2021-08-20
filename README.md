@@ -67,9 +67,16 @@ Here are some ideas to get you started:
 <a href="https://github.com/rifkykd">
   <img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/github.svg" />
 </a>
+<a href="href="https://www.tiktok.com/@rifky_kd?lang=en">
+  <img align="left" alt="TikTok" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/tiktok.svg" />
+</a>
 <a href="https://mail.google.com/mail/u/0/?tab=wm#inbox?compose=GTvVlcSDbSJbVvWjnZBcnXkkQWnWxsbJZCxkhTMRFtWWvhJcPWpGrHllnHlJnZFTjmSbNGNlTlwpp">
   <img align="left" alt="gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/gmail.svg" />
 </a>
+
+
+
+
 <br/>
 
 <p>
