@@ -84,6 +84,7 @@ Here are some ideas to get you started:
 <br/>
 
 ### My Projects
+- [**SEE-YOU**](https://github.com/rifkykd/SEE-YOU)
 - [**Fake-Mailer**](https://github.com/rifkykd/Fake-Mailer)
 - [**KD-Host**](https://github.com/rifkykd/KD-Host)
 - [**KD-HACKERS**](https://github.com/rifkykd/KD-HACKERS)
@@ -91,8 +92,7 @@ Here are some ideas to get you started:
 - [**Animated-Login-Page**](https://github.com/rifkykd/Animated-Login-Page)
 - [**KD-Tracker**](https://github.com/rifkykd/KD-Tracker)
 - [**Calculate-With-Mr.Boy**](https://github.com/rifkykd/Calculate-With-Mr.Boy)
-
-
+- [**Calculate-With-Mr.Boy**](https://github.com/rifkykd/Calculate-With-Mr.Boy)
 
 <p>
 <img src="https://visitor-badge.laobi.icu/badge?page_id=rifkykd" alt="visitor badge"/>
