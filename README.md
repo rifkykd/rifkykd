@@ -58,6 +58,7 @@ Here are some ideas to get you started:
 </p>
 
 ***********************************
+
 <a href="https://twitter.com/Rifky54641898">
   <img align="left" alt="Rifky KD| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" target="blank"/>
 </a>
@@ -83,17 +84,12 @@ Here are some ideas to get you started:
 
 <br/>
 
-### My Projects
-- [**SEE-YOU**](https://github.com/rifkykd/SEE-YOU)
-- [**Fake-Mailer**](https://github.com/rifkykd/Fake-Mailer)
-- [**KD-Host**](https://github.com/rifkykd/KD-Host)
-- [**KD-HACKERS**](https://github.com/rifkykd/KD-HACKERS)
-- [**Unfollow-By-KD**](https://github.com/rifkykd/Unfollow-By-KD)
-- [**Animated-Login-Page**](https://github.com/rifkykd/Animated-Login-Page)
-- [**KD-Tracker**](https://github.com/rifkykd/KD-Tracker)
-- [**Calculate-With-Mr.Boy**](https://github.com/rifkykd/Calculate-With-Mr.Boy)
-- [**Calculate-With-Mr.Boy**](https://github.com/rifkykd/Calculate-With-Mr.Boy)
-
+<p align="center">
+<a href="https://github.com/noob-hackers/grabcam"><img title="grabcam" src="https://github-readme-stats.vercel.app/api/pin/?username=noob-hackers&repo=grabcam&theme=radical"></a>
+<a href="https://github.com/noob-hackers/mrphish"><img title="mrphish" src="https://github-readme-stats.vercel.app/api/pin/?username=noob-hackers&repo=mrphish&theme=highcontrast"></a>
+<a href="https://github.com/noob-hackers/kalimux"><img title="kalimux" src="https://github-readme-stats.vercel.app/api/pin/?username=noob-hackers&repo=kalimux&theme=vision-friendly-dark"></a>
+<a href="https://github.com/rifkykd/Calculate-With-Mr.Boy"><img title="Calculate-With-Mr.Boy" src="https://github-readme-stats.vercel.app/api/pin/?username=rifkykd&repo=Calculate-With-Mr.Boy&theme=highcontrast"></a>
+</p>
 <p>
 <img src="https://visitor-badge.laobi.icu/badge?page_id=rifkykd" alt="visitor badge"/>
 </p>
