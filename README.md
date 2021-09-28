@@ -84,7 +84,7 @@ Here are some ideas to get you started:
 
 <br/>
 
-<p align="center">
+<p >
 <a href="https://github.com/rifkykd/KD-HACKERS"><img title="KD-HACKERS" src="https://github-readme-stats.vercel.app/api/pin/?username=rifkykd&repo=KD-HACKERS&theme=radical"></a>
 <a href="https://github.com/rifkykd/KD-Phisher"><img title="KD-Phisher" src="https://github-readme-stats.vercel.app/api/pin/?username=rifkykd&repo=KD-Phisher&theme=highcontrast"></a>
 <a href="https://github.com/rifkykd/SEE-YOU"><img title="SEE-YOU" src="https://github-readme-stats.vercel.app/api/pin/?username=rifkykd&repo=SEE-YOU&theme=vision-friendly-dark"></a>
