@@ -85,9 +85,13 @@ Here are some ideas to get you started:
 <br/>
 
 <p align="center">
-<a href="https://github.com/noob-hackers/grabcam"><img title="grabcam" src="https://github-readme-stats.vercel.app/api/pin/?username=noob-hackers&repo=grabcam&theme=radical"></a>
-<a href="https://github.com/noob-hackers/mrphish"><img title="mrphish" src="https://github-readme-stats.vercel.app/api/pin/?username=noob-hackers&repo=mrphish&theme=highcontrast"></a>
-<a href="https://github.com/noob-hackers/kalimux"><img title="kalimux" src="https://github-readme-stats.vercel.app/api/pin/?username=noob-hackers&repo=kalimux&theme=vision-friendly-dark"></a>
+<a href="https://github.com/rifkykd/KD-HACKERS"><img title="KD-HACKERS" src="https://github-readme-stats.vercel.app/api/pin/?username=rifkykd&repo=KD-HACKERS&theme=radical"></a>
+<a href="https://github.com/rifkykd/KD-Phisher"><img title="KD-Phisher" src="https://github-readme-stats.vercel.app/api/pin/?username=rifkykd&repo=KD-Phisher&theme=highcontrast"></a>
+<a href="https://github.com/rifkykd/SEE-YOU"><img title="SEE-YOU" src="https://github-readme-stats.vercel.app/api/pin/?username=rifkykd&repo=SEE-YOU&theme=vision-friendly-dark"></a>
+<a href="https://github.com/rifkykd/Fake-Mailer"><img title="Fake-Mailer" src="https://github-readme-stats.vercel.app/api/pin/?username=rifkykd&repo=Fake-Mailer&theme=highcontrast"></a>                 
+<a href="https://github.com/rifkykd/KD-HACKERS"><img title="KD-HACKERS" src="https://github-readme-stats.vercel.app/api/pin/?username=rifkykd&repo=KD-HACKERS&theme=radical"></a>
+<a href="https://github.com/rifkykd/Unfollow-By-KD"><img title="Unfollow-By-KD" src="https://github-readme-stats.vercel.app/api/pin/?username=rifkykd&repo=Unfollow-By-KD&theme=highcontrast"></a>
+<a href="https://github.com/rifkykd/Animated-Login-Page"><img title="Animated-Login-Page" src="https://github-readme-stats.vercel.app/api/pin/?username=rifkykd&repo=Animated-Login-Page&theme=vision-friendly-dark"></a>
 <a href="https://github.com/rifkykd/Calculate-With-Mr.Boy"><img title="Calculate-With-Mr.Boy" src="https://github-readme-stats.vercel.app/api/pin/?username=rifkykd&repo=Calculate-With-Mr.Boy&theme=highcontrast"></a>
 </p>
 <p>
