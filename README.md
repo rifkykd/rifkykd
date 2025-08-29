@@ -14,13 +14,43 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2>Hey Guys, <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+# 👋 Hey, I’m [Your Name]
+
+🚀 AI & Automation Enthusiast | Future Founder | Building Billionaire Skills Daily  
+
+I’m on a journey to build powerful AI tools that help businesses and people work smarter.  
+Currently learning **Python, AI Agents, Automation, and SaaS Development**.  
+
+---
+
+### 🔥 What I’m Working On
+- 🤖 [AI Research Assistant](link-to-your-repo) – Reads files & websites, answers questions.  
+- 🚀 Daily AI projects → building skills in public.  
+
+---
+
+### 🛠 Tech Stack
+- Python, OpenAI API, LangChain  
+- Web Scraping & Automation (BeautifulSoup, Requests)  
+- GitHub, VS Code, APIs  
+
+---
+
+### 🌍 Connect With Me
+- 💼 [LinkedIn](www.linkedin.com/in/moh-rifky)   
+- ✉️ Email: mohammedrifky5431@gmail.com  
+
+---
+
+⭐ *Follow my journey as I build AI products & share progress daily!*  
+
+<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 
 
 
-
+<!--
 ✓ I am Rifky 
 <br/>
 ✓ Owner of the Keep Distance 
@@ -31,6 +61,7 @@ Here are some ideas to get you started:
 <br/>
 ✓ SriLankan 
 <br/>
+-->
 
 <a href="https://github.com/rifkykd">
   <img src="https://github-readme-stats.vercel.app/api?username=rifkykd&show_icons=true&theme=blue-green&layout=compact" alt="rifkykd GitHub Stats" />
