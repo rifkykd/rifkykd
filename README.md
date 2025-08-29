@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/rifkykd">
 
 </a>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 🚀 AI & Automation Enthusiast | Future Founder | Building Billionaire Skills Daily  
 
 I’m on a journey to build powerful AI tools that help businesses and people work smarter.  
@@ -46,7 +47,7 @@ Currently learning **Python, AI Agents, Automation, and SaaS Development**.
 
 ⭐ *Follow my journey as I build AI products & share progress daily!*  
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
 
 
 
