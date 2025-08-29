@@ -20,33 +20,37 @@ Here are some ideas to get you started:
 
 </a>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-🚀 AI & Automation Enthusiast | Future Founder | Building Billionaire Skills Daily  
+🚀 AI & Automation Enthusiast | Future Founder
+<br/>
 
 I’m on a journey to build powerful AI tools that help businesses and people work smarter.  
 Currently learning **Python, AI Agents, Automation, and SaaS Development**.  
-
+<br/>
 ---
-
-### 🔥 What I’m Working On 
+<br/>
+### 🔥 What I’m Working On
+<br/>
 - 🚀 Daily AI projects → building skills in public.  
-
+<br/>
 ---
-
+<br/>
 ### 🛠 Tech Stack
+<br/>
 - Python, OpenAI API, LangChain  
 - Web Scraping & Automation (BeautifulSoup, Requests)  
 - GitHub, VS Code, APIs  
-
+<br/>
 ---
-
+<br/>
 ### 🌍 Connect With Me
+<br/>
 - 💼 [LinkedIn](www.linkedin.com/in/moh-rifky)   
 - ✉️ Email: mohammedrifky5431@gmail.com  
-
+<br/>
 ---
-
+<br/>
 ⭐ *Follow my journey as I build AI products & share progress daily!*  
-
+<br/>
 
 
 
