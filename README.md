@@ -15,11 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"> 👋 Hey, I’m Rifky
 <a href="https://github.com/rifkykd">
-  <img src="https://github-readme-stats.vercel.app/api?username=rifkykd&show_icons=true&theme=blue-green&layout=compact" alt="rifkykd GitHub Stats" />
-</a> 👋 Hey, I’m Rifky
-<a href="https://github.com/rifkykd">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifkykd&show_icons=true&theme=blue-green&layout=compact" alt"Most use languages"/>
+
 </a>
 🚀 AI & Automation Enthusiast | Future Founder | Building Billionaire Skills Daily  
 
@@ -48,7 +46,6 @@ Currently learning **Python, AI Agents, Automation, and SaaS Development**.
 
 ⭐ *Follow my journey as I build AI products & share progress daily!*  
 
-<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 
